@@ -2,13 +2,13 @@
 
 **Nombre de la misión:** Rescate del repositorio
 
-**ESTADO DE LA MISIÓN: ATERRIZAJE LISTO POR ORBITA**
+**ESTADO DE LA MISIÓN: LANZAMIENTO Y ATERRIZAJE LISTOS (AURORA + ORBITA)**
 
-**Mensaje a la tripulación:** Querida tripulación a bordo, iniciaremos el aterrizaje, mantenganse en sus asientos y ponganse el cinturo hasta que se les indique.
+**Mensaje a la tripulación:** Tripulación, prepárense para el despegue en 3, 2, 1... y, al final del viaje, mantengan sus asientos y cinturones hasta el aterrizaje.
 
 ## Decisiones de los equipos
 
-- Aurora: pendiente.
+- Aurora: Lanzamiento preparado y esperando la luz verde por parte de Órbita.
 - Órbita: Aterrizaje preparado.
 
 > Atención: ambos equipos tendrán que editar la línea `ESTADO DE LA MISIÓN` en sus ramas. ¡No se coordinen para usar el mismo texto! La diferencia creará un caso para resolver cuando se integre el segundo PR.
