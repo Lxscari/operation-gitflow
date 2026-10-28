@@ -11,9 +11,11 @@
 6. Pide una revisión a Órbita; responde y corrige al menos un comentario.
 
 ## Plan de lanzamiento
-- Paso 1: pendiente.
-- Paso 2: pendiente.
-- Paso 3: pendiente.
+- Paso 1: Aurora aqui, antes de empezar con nuestro lanzamiento, tenemos que corroborar unas cosas. Checar 
+niveles tanto de combustible como reservas de comida
+- Paso 2: Segunda. Checar con houston si las condiciones para despegar son las adecuadas y si hubo alguna 
+modificacion de ultimo momento en la ruta o otrayectoria a seguir 
+- Paso 3: Que inicie el conte regresivo y mucha suerte astronautas!
 
 ## Pregunta para el otro equipo
 ¿Qué podría salir mal durante el lanzamiento?
