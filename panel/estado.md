@@ -4,7 +4,7 @@
 
 **ESTADO DE LA MISIÓN: AURORA LISTA PARA DESPEGAR!**
 
-**Mensaje a la tripulación:** Amarrense chido el cinturon que ya vamos a despegar.
+**Mensaje a la tripulación:** Tripulacion, preparense para el despegue en 3, 2 , 1.
 
 ## Decisiones de los equipos
 
