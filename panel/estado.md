@@ -2,9 +2,9 @@
 
 **Nombre de la misión:** Rescate del repositorio
 
-**ESTADO DE LA MISIÓN: PENDIENTE**
+**ESTADO DE LA MISIÓN: ATERRIZAJE LISTO POR ORBITA**
 
-**Mensaje a la tripulación:** Esperando instrucciones.
+**Mensaje a la tripulación:** Querida tripulación a bordo, iniciaremos el aterrizaje, mantenganse en sus asientos y ponganse el cinturo hasta que se les indique.
 
 ## Decisiones de los equipos
 

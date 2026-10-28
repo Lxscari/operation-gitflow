@@ -11,9 +11,9 @@
 6. Pide una revisión a Aurora; responde y corrige al menos un comentario.
 
 ## Plan de aterrizaje
-- Paso 1: pendiente.
-- Paso 2: pendiente.
-- Paso 3: pendiente.
+- Paso 1: Confirmar que la zona de aterrizaje este despejada y verificar que la nave este en condiciones de un aterrizaje seguro.
+- Paso 2: Comenzar el descenso de manera segura, siguiendo los protocolos de aterrizaje. 
+- Paso 3: Asegurarse de haber dejado la nave de manera estable, que no haya daños y la tripulación este a salvo.
 
 ## Pregunta para el otro equipo
 ¿Qué podría salir mal durante el aterrizaje?
