@@ -12,7 +12,7 @@
 
 ## Plan de aterrizaje
 - Paso 1: Confirmar que la zona de aterrizaje este despejada y verificar que la nave este en condiciones de un aterrizaje seguro.
-- Paso 2: Comenzar el descenso de manera segura, siguiendo los protocolos de aterrizaje. 
+- Paso 2: Comenzar el descenso de manera segura, siguiendo los protocolos de aterrizaje, donde deben mantenerse en su asiento con los cinturones puestos. 
 - Paso 3: Asegurarse de haber dejado la nave de manera estable, que no haya daños y la tripulación este a salvo.
 
 ## Pregunta para el otro equipo
